@@ -12,8 +12,8 @@ An archive of performances
 
 ##GOALS
 
-# Catelog and archive performances
-# Become resource for information about performances / performers
+#. Catelog and archive performances
+#. Become resource for information about performances / performers
 
 
 
