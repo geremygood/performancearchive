@@ -6,14 +6,14 @@ performancearchive
 
 An archive of performances
 
-## IDEA ORIGIN
+### IDEA ORIGIN
 
 “Once you have experienced a performance, you are forever changed.”
 
-##GOALS
+### GOALS
 
-#. Catelog and archive performances
-#. Become resource for information about performances / performers
+1. Catelog and archive performances
+2. Become resource for information about performances / performers
 
 
 
