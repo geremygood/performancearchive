@@ -1,0 +1,6 @@
+<h1>{{ performance.title }}</h1>
+<ul>
+{% for performer in performance.performer_set.all %}
+<li>{{ performer.first_name }} {{ performer.last_name }}</li>
+{% endfor %}
+</ul>
